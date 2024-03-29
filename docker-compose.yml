@@ -10,7 +10,7 @@ services:
       MYSQL_HOST: mysql
       MYSQL_USER: admin
       MYSQL_PASSWORD: admin    
-      MYSQL_DB: myDb
+      MYSQL_DB: myDb     
     depends_on:     
       - mysql
 
