@@ -17,7 +17,7 @@ kubectl apply -f twotier-deployment.yml
 ```
 ```bash
 kubectl apply -f twotier-deployment-svc.yml
-```
+```      
 ```bash
 kubectl apply -f mysql-deployment.yml
 ```
