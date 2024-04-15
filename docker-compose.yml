@@ -12,7 +12,7 @@ services:
       MYSQL_PASSWORD: admin    
       MYSQL_DB: myDb          
     depends_on:     
-      - mysql
+      - mysql     
 
   mysql:
     image: mysql:5.7
