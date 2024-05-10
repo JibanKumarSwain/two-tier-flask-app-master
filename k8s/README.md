@@ -5,7 +5,7 @@ Use this repository to setup kubeadm https://github.com/JibanKumarSwain/Kubestar
 ## SetUp
 - First clone the code to your machine
 ```bash
-https://github.com/JibanKumarSwain/two-tier-flask-app-master.git    
+https://github.com/JibanKumarSwain/two-tier-flask-app-master.git        
 ```
 - Move to k8s directory    
 ```bash   
